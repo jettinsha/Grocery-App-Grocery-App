@@ -19,7 +19,7 @@ Dart SDK Version 2.17.0 or greater.
 Flutter SDK Version 3.0.0 or greater.
 
 ### Design System for better accuracy
-<img src="Grocery-App/blob/Grocery-App/Grocery%20App/grocery-app.png" alt="Flutter Grocery Shopping App Video Animation">
+<img src="assets/images/grocery-shoppy.png" alt="Flutter Grocery Shopping App Video Animation">
 
 
 ### App Navigations
