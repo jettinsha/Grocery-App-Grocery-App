@@ -76,7 +76,4 @@ Resolve the errors and warnings that are shown in the application.
   https://pub.dev/packages/shared_preferences
 - cached_network_image - For storing internet image into cache
   https://pub.dev/packages/cached_network_image
-    
-### Support
-
-Connect to Widle Studio Team.
+  
