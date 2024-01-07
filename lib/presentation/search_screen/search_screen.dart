@@ -1,8 +1,8 @@
 import 'controller/search_controller.dart';
-import 'package:flutter/material.dart' hide SearchController;
+import 'package:flutter/material.dart';
 import 'package:grocery_app/core/app_export.dart';
 import 'package:grocery_app/widgets/custom_text_form_field.dart';
-// import 'package:flutter/src/material/search_anchor.dart';
+import 'package:flutter/src/material/search_anchor.dart';
 // import 'package:grocery_app/presentation/search_screen/controller/search_controller.dart';
 
 class SearchScreen extends GetWidget<SearchController> {
